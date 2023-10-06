@@ -41,12 +41,12 @@ To run this project locally, follow these steps:
    git clone https://github.com/Nazeem-c/RealEstateWeb
    ```
 
-2.  Navigate to the project directory.
+2. Navigate to the project directory.
    ```
    cd RealEstateWeb
    ```
 
-4.  Install dependencies:
+3. Install dependencies:
    ```
    npm install
    ```
