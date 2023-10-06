@@ -1,0 +1,10 @@
+
+.c-container{
+    gap: 1rem;
+    justify-content: space-around;
+    /* padding-left: 10%;
+    padding-right: 10%; */
+}
+.c-container img{
+    width: 9rem;
+}

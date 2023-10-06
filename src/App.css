@@ -1,0 +1,22 @@
+.App{
+    position: relative;
+    overflow-x: clip;
+    /* background: var(--black); */
+
+}
+.main{
+    background: var(--black);
+    position: relative;
+   
+}
+.white-gradient{
+    position: absolute;
+    top: 19%;
+    left: 0%;
+    width: 20rem;
+    height: 20rem;
+    background: linear-gradient(to bottom, #fff 40%, #000 40%);
+    filter: blur(100px);
+    border-radius: 100%;
+    z-index: 1;
+}
