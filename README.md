@@ -32,7 +32,7 @@ Welcome to the Real Estate React Website project! This is a front-end-only websi
 - HTML/CSS: For structuring and styling the website.
 - JavaScript: To add interactivity and functionality.
 - No Backend: This website is entirely client-side and does not require a backend server.
-- 
+  
 ## Getting Started
 To run this project locally, follow these steps:
 
